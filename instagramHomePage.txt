@@ -1,0 +1,15 @@
+1.Instagram Login and logout Page
+
+2.Instagram Home Page
+
+3.Instagram post page
+
+4.Instagram like,comment,send Option
+
+5.Instagram contact page
+
+6.Instagram following page
+
+7.Instagram follwers Page
+
+
